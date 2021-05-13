@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ClassTraitorJoe
+- 👀 I’m interested in game design
+- 🌱 I’m currently learning python, godot, krita, and C#
+- 💞️ I’m looking to collaborate on anything, especially tips and tricks for beginners
+- 📫 How to reach me- my email is joseph.brooks2048@gmail.com and my insta is @classtraitorjoe
